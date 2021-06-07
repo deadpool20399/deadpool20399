@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... Nestjs
 - 🤔 I’m looking for help with ... GCP
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](avinash.20399@gmail.com)
+- 📫 How to reach me: ... [Avinash Singh](mailto:avinash.20399@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Nothing
