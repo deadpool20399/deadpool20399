@@ -1,5 +1,6 @@
-### Here is what I'm working on 👋
+![image](https://user-images.githubusercontent.com/55666078/121047558-e6415400-c7d3-11eb-9ed6-939bec44bad9.png)
 
+### Here is what I'm working on 👋
 - 🔭 I’m currently working on ... Ktern
 - 🌱 I’m currently learning ... Nestjs
 - 👯 I’m looking to collaborate on ... Nestjs
